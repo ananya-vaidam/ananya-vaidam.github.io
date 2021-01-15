@@ -1,0 +1,282 @@
+@media only screen and (max-width:767px){
+	.socialmediaicons-footer {
+    margin-left: -28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.consultation-video{
+	width:280px;
+	height:auto
+}
+.imgAboutVaidam {
+    margin-top: 4px;
+}
+#search-suggestionsblock {
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 5px;
+    position: absolute;
+    width: 93%;
+    text-align: left;
+    z-index: 99;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+  .header-nav-vaidam a {display: none;}
+  
+  .header-nav-vaidam a.icon {
+    float: right;
+    display: block;
+  }
+  .header-nav-vaidam a.logo {
+   padding: 13px 0px;
+   display: block !important;
+}
+ .header-nav-vaidam.responsive {position: relative;}
+  .header-nav-vaidam.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .header-nav-vaidam.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+   .headernav-right {
+    float: none;
+  }
+  .header-nav-vaidam .icon:hover {
+	  background-color:transparent;
+	  color: #fff;
+}
+.drpbtn-language {
+    margin: 2px;
+}
+.langband-block{
+	float: right;
+    padding: 0;
+}
+.dropdown-lang {
+    margin-top: 0px;
+}
+.selec-city-btn{
+	margin-top: 6px;
+	font-size: 15px;
+	margin-bottom: -3px;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 1.61;
+	letter-spacing: 1.08px;
+	text-align: center;
+	color: #868686;
+}	
+.services-column{height:378px;
+width:265px;}
+.mob-no-padding{padding:0;}
+.mob-height{height:86px;}
+.mob-listing-one{margin-top: 5px;}
+.mob-listing-two{margin-top: -22px;}	 
+.banner-search{
+	background:none;
+	background-size:none;
+	height: 190px;
+    background-color: #fff;
+}
+.banner-heading{
+    font-size: 20px;
+	}
+.search-column{top:1px;}
+.searchTerm {
+    border-radius: 1px;
+}
+.top-grid {
+    height: 130px;
+    width: auto;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.top-grid .t-icon6 img {
+    height: 95px;
+}
+.desktop-hide{display:block;}
+.mob-hide{display:none;}
+.speciality-name {
+    margin-top: 1px;
+	margin-bottom:0;
+}
+.country-selection {
+height: 105px;
+width: 100%;
+display: inline-block;
+position: relative;
+z-index: 99;
+padding: 12px;
+}
+.country-selection .country-icon img {
+    height: 50px;
+    display: inline-block;
+	width:auto;
+}
+.country-name {
+    margin-top: 1px;
+}
+.citydiv {
+    display: block;
+    width: 210px;
+    position: relative;
+    z-index: 9;
+    text-align: center;
+    margin: 0 auto;
+    padding: 6px;
+}
+.hospitalfor-column {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.department-grid {
+    margin: 0 auto;
+}
+.pricing-bg {
+    width: auto;
+    height: 140px;
+}
+.pricing-name {
+    margin-bottom: 16px;
+    margin-top: 0;
+    min-height: 50px;
+}
+.panel-customize {
+    width: auto;
+    height: 165px;
+    margin: 0 auto;
+}
+.pricing-department {
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+.filtered-price-block {
+	margin-bottom:10px;
+	padding:5px;
+}
+.citydoc-btndiv {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.ih-item.circle {
+    height: 85px;
+    width: 85px;
+}
+.ih-item.circle .img {
+    margin-top: 20px;
+}
+.flyback {
+    margin-top: 30px !important;
+}
+.treatment-step {
+    font-size: 12px;
+    line-height: 1.44;
+    margin: 10px 4px 0px 4px;
+}
+.plantravel-block {
+    background-color: #fff;
+    margin-top: 28px;
+    height: 330px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.welcome-grid p a {
+    margin: 0 auto;
+}
+.welcome-grid p {
+    display: block;
+    list-style: outside none none;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+.planning-heading {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.sub-heading-block {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.patientstory-heading {
+	padding-left: 18px;
+    padding-right: 18px;
+}
+.testimonials-heading {
+	padding-left: 18px;
+    padding-right: 18px;
+}
+.services-heading {
+	padding-left: 18px;
+    padding-right: 18px;
+}
+.get-opinion-heading {
+    font-size: 14px;
+	margin-top: 4px;
+}
+.star-img {
+    margin-top: 10px;
+    height: 40px;
+    width: auto;
+}
+.opinion-prbl-btn {
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.btn-opinion {
+    width: 100%;
+}
+.get-opinion {
+    height: 120px;
+}
+.more-doctors {
+    margin-bottom: 20px;
+}
+.check-hospital {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.check-pricelist {
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px)  {
+.welcome-grid p a {
+    margin: 0 auto;
+}
+.welcome-grid p {
+    display: block;
+    list-style: outside none none;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+	}
+@media only screen and (max-width: 1024px) and (min-width: 992px)  {
+.welcome-grid p a {
+    margin: 0 auto;
+}
+.welcome-grid p {
+    display:inline-block;
+    list-style: outside none none;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+	}
+@media only screen and (max-width: 991px) and (min-width: 240px){
+.welcome-grids { 
+    background-image:none !important;
+}
+}
